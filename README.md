@@ -14,17 +14,18 @@ https://doc.kkgkd.com
 
 
 > 对于一个完全的小白来说，你可能需要以下工具来进行操作
+>
 > 1.git(文档克隆，上传)
-> [https://git-scm.com/downloads](https://git-scm.com/downloads)
+> [Git官网下载地址](https://git-scm.com/downloads)
+>
 > 2.NodeJS(在本地进行页面预览)
 >
-> [https://nodejs.org/zh-cn/](https://nodejs.org/zh-cn/)
+> [NodeJS官网下载/](https://nodejs.org/zh-cn/)
 >
 > 3.MarkDown文件编辑器(编辑MD格式的文件)
 >
-> [Typora编辑器开发版](https://typora.io/windows/dev_release.html)
->
-> （PS：正式版收费了，但旧的开发版依旧免费，所以直接白嫖旧的开发版本）
+> [Typora开发版下载地址](https://typora.io/windows/dev_release.html)
+> （PS：Typora正式版收费了，但旧的开发版依旧免费，所以直接白嫖旧的开发版本）
 
 
 
