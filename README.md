@@ -36,6 +36,7 @@ git clone https://github.com/ThrowPanic/MyKKDocument.git
 # 使用git clone 源码
 
 cd MyKKDocument
+# 切换到文档所在的目录
 
 npm install
 # 使用node js 的npm命令安装依赖
