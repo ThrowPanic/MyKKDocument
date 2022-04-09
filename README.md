@@ -16,11 +16,12 @@ https://doc.kkgkd.com
 > 对于一个完全的小白来说，你可能需要以下工具来进行操作
 >
 > 1.git(文档克隆，上传)
+> 
 > [Git官网下载地址](https://git-scm.com/downloads)
 >
 > 2.NodeJS(在本地进行页面预览)
 >
-> [NodeJS官网下载/](https://nodejs.org/zh-cn/)
+> [NodeJS官网下载](https://nodejs.org/zh-cn/)
 >
 > 3.MarkDown文件编辑器(编辑MD格式的文件)
 >
@@ -35,6 +36,7 @@ git clone https://github.com/ThrowPanic/MyKKDocument.git
 # 使用git clone 源码
 
 cd MyKKDocument
+# 切换到文档所在的目录
 
 npm install
 # 使用node js 的npm命令安装依赖
@@ -45,6 +47,6 @@ npm run docs:dev
 
 
 [![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
-GoCQDocs 由 [Romichan](https://github.com/Romichan) 采用 [知识共享 署名-相同方式共享 4.0 国际 许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。
+MyKKDocument 由 [Romichan](https://github.com/Romichan) 采用 [知识共享 署名-相同方式共享 4.0 国际 许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。
 
-GoCQDocs by [Romichan](https://github.com/Romichan) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)
+MyKKDocument by [Romichan](https://github.com/Romichan) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)
