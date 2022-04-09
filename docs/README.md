@@ -14,7 +14,7 @@ actions:
 
 features:
   - title: 查看
-    details: 常用插件的使用方式与相关信息
+    details: 常用插件的使用方式与其相关信息
   - title: 学习
     details: 基于C#与Unity3D相关的插件与模组的开发方式
   - title: 讨论
