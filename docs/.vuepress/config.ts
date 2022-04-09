@@ -3,8 +3,8 @@ import type { DefaultThemeOptions } from 'vuepress'
 export default defineUserConfig<DefaultThemeOptions>({
     // 站点配置
     lang: 'zh-CN',
-    title: 'go-cqhttp 帮助中心',
-    description: 'Onebot 的 golang 实现，轻量、原生跨平台',
+    title: 'KK社群文档中心',
+    description: '开源、自由的KK社区文档',
     base: '/',
     plugins: [
         ['@vuepress/back-to-top'],
