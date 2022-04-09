@@ -49,6 +49,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         repo: 'ThrowPanic/MyKKDocument',
         docsRepo: 'ThrowPanic/MyKKDocument',
         docsBranch: 'main',
+        docsDir: 'docs',
         editLinkText: "编辑此页",
         lastUpdated: true,
         lastUpdatedText: '上一次编辑',
