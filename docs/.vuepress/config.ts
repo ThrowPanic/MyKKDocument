@@ -59,10 +59,9 @@ export default defineUserConfig<DefaultThemeOptions>({
         danger: "警告",
         backToHome: "返回首页",
         navbar: [
-            { text: '指南',children: ['/guide/']},
-            { text: '插件', children: ['/plugin/'] },
-            { text: '模组', children: ['/mode/'] },
-            { text: '开发', children: ['/dev/'] },
+            { text: '指南',children: ['/guide/','/guide/use_web.md','/guide/write_docs.md']},
+            { text: '插件', children: ['/plugin/','/plugin/use_plugin.md','/plugin/dev_plugin.md',]},
+            { text: '模组', children: ['/mode/','/mode/use_mode.md','/mode/dev_mode.md',]},
             { text: 'FAQ', link: '/faq/' }
         ],
         sidebar: "auto",
