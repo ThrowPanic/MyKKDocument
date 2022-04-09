@@ -16,6 +16,7 @@ https://doc.kkgkd.com
 > 对于一个完全的小白来说，你可能需要以下工具来进行操作
 >
 > 1.git(文档克隆，上传)
+> 
 > [Git官网下载地址](https://git-scm.com/downloads)
 >
 > 2.NodeJS(在本地进行页面预览)
