@@ -58,7 +58,8 @@ export default defineUserConfig<DefaultThemeOptions>({
         danger: "警告",
         backToHome: "返回首页",
         navbar: [
-            { text: '插件', children: ['/plugin/',] },
+            { text: '指南',children: ['/guide/']},
+            { text: '插件', children: ['/plugin/'] },
             { text: '模组', children: ['/mode/'] },
             { text: '开发', children: ['/dev/'] },
             { text: 'FAQ', link: '/faq/' }
