@@ -21,7 +21,7 @@ https://doc.kkgkd.com
 >
 > 2.NodeJS(在本地进行页面预览)
 >
-> [NodeJS官网下载/](https://nodejs.org/zh-cn/)
+> [NodeJS官网下载](https://nodejs.org/zh-cn/)
 >
 > 3.MarkDown文件编辑器(编辑MD格式的文件)
 >
