@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://user-images.githubusercontent.com/25968335/120111974-8abef880-c139-11eb-99cd-fa928348b198.png
+heroImage: /logo.gif
 heroText: KK文档中心
 tagline: 开源、自由的KK社区文档
 
