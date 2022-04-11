@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from 'vuepress'
 export default defineUserConfig<DefaultThemeOptions>({
     // 站点配置
     lang: 'zh-CN',
-    title: 'KK社群文档中心',
+    title: 'KK社区文档',
     description: '开源、自由的KK社区文档',
     base: '/',
     plugins: [

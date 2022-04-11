@@ -1,6 +1,6 @@
 {
-    "name": "KK社区文档中心",
-    "short_name": "KK社区文档",
+    "name": "KKCommunityDocs",
+    "short_name": "KKDocs",
     "description": "Vue-powered Static Site Generator",
     "start_url": "/index.html",
     "display": "standalone",
