@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.gif
+heroImage: /images/icons/logo.gif
 heroText: KK文档中心
 tagline: 开源、自由的KK社区文档
 
