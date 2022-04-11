@@ -39,5 +39,6 @@ writage是`Microsoft Word `的一款针对`Markdown`格式的插件
 我们可发现这种`9D0@{AP0XYFQ][Z{YKT\$EA5.png`的文件名，会无法正常显示，核心原因是里面包含了`[]`（方括号）这导致MarkDown无法正确的按图片格式来解析它
 
 
-
-> ![](相对路径)
+```markdown
+![](相对路径)
+```
