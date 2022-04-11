@@ -19,8 +19,9 @@ writage是`Microsoft Word `的一款针对`Markdown`格式的插件
 :::
 
 ## 使用教程
-
+```
 ![image-20220411172832815](C:\Users\AN\AppData\Roaming\Typora\typora-user-images\image-20220411172832815.png)
+```
 
 打开需要转换的Word文件，在保存类型中选择Markdown(*.md)格式
 
