@@ -32,15 +32,30 @@ export default defineUserConfig<DefaultThemeOptions>({
             }
         ],
         [
-            "@vuepress/plugin-docsearch",
+            '@vuepress/plugin-search',
             {
-                apiKey: '4cfe0f33be16c346fed77effff922cf8',
-                indexName: 'go-cqhttp',
-                algoliaOptions: {
-                    facetFilters: ["lang:en-US"],
+              isSearchable: (page) => page.path !== '/',
+              getExtraFields: (page) => page.frontmatter.tags ?? [],
+              locales: {
+                '/': {
+                  placeholder: 'Search',
                 },
-            }
-        ]
+                '/zh/': {
+                  placeholder: '搜索',
+                },
+              },
+            },
+        ],
+        // [
+        //     "@vuepress/plugin-docsearch",
+        //     {
+        //         apiKey: '4cfe0f33be16c346fed77effff922cf8',
+        //         indexName: 'go-cqhttp',
+        //         algoliaOptions: {
+        //             facetFilters: ["lang:en-US"],
+        //         },
+        //     }
+        // ]
     ],
 
     // 主题和它的配置
