@@ -76,7 +76,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         navbar: [
             {text:  '指南', link: '/guide/',} ,
             //{ text: '指南',children: ['/guide/','/guide/write_docs/','/guide/up_docs/']},
-            { text: '插件', children: ['/plugin/','/plugin/use_plugin.md','/plugin/dev_plugin.md',"/plugin/use_use_sema"]},
+            { text: '插件', children: ['/plugin/','/plugin/use_plugin.md','/plugin/dev_plugin.md',"/plugin/use_sema"]},
             { text: '模组', children: ['/mode/','/mode/use_mode.md','/mode/dev_mode.md',]},
             { text: 'FAQ', link: '/faq/' }
         ],
