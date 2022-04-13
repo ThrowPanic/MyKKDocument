@@ -1,7 +1,7 @@
 # StudioExtraMoveAxis教程
 
 
-> 仓库地址:[ThrowPanic/MyKKDocument](https://github.com/ManlyMarco/StudioExtraMoveAxis)  
+> 仓库地址:[ManlyMarco/StudioExtraMoveAxis](https://github.com/ManlyMarco/StudioExtraMoveAxis)  
 > 下载地址:[Release](https://github.com/ManlyMarco/StudioExtraMoveAxis/releases)
 ## 插件用法
 
